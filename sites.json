@@ -1,5 +1,12 @@
-{"sites": {
-    "Kirkwood.edu":"http://www.kirkwood.edu/index.php",
-     "Internal Prod":"https://int.kirkwood.edu"
-     }
- }
+{"sites": 
+		[
+			{
+			"name":"Kirkwood.edu",
+			"url":"http://www.kirkwood.edu/index.php"
+			},
+			{
+			"name":"Internal Prod",
+			"url":"https://int.kirkwood.edu"
+			}
+		]
+}
